@@ -1,3 +1,5 @@
 # hpc
-Download GlobalProtect VPN or connect to campus network
-* https://cpp.service-now.com/ehelp?id=kb_article&sys_id=c40f854e6fe8e600e020f35d5d3ee4d5
+1. Download GlobalProtect VPN or connect to campus network
+CPP GlobalProtect Portal:
+  * https://vpn.connect.cpp.edu/global-protect/getsoftwarepage.esp 
+  * ![vpn_windows06](https://github.com/huangruoqi/hpc/assets/44049919/16ca3a97-d362-4407-aebf-fb1034410ea5)
